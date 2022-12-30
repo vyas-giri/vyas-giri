@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vyas-giri
-- 👀 Computer and technology interests me.
-- 🌱 I’m currently learning about web3 and java and already know a little bit of python and web dev.
+- 👀 I am interested in learning about computer and technology.
+- 🌱 I’m currently learning about web3 and c and c++ and already know a little bit of python and web dev.
 - 📫 How to reach me- email: vyasgiri25@gmail.com
 
 <!---
