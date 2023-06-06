@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vyas-giri
-- 👀 I am interested in learning about computer and technology.
-- 🌱 I’m currently learning about web3 and already quite experienced in c, python and web dev (web 2).
+- 👀 I am super crazy about learning about computer and technology.
+- 🌱 I’m currently learning about web3 and already quite experienced in C, python and web dev (web 2).
 - 📫 How to reach me- email: vyasgiri@duck.com
 
 <!---
