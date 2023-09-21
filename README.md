@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vyas-giri
-- 👀 I am super crazy about learning about computer and technology.
-- 🌱 I’m currently learning about web3 and already quite experienced in C, python and web dev (web 2).
+- 👀 I like to about learning about computer and technology.
+- 🌱 I’m proficient in building apps with MERN stack and currently learning Next and Angular.
 - 📫 How to reach me- email: vyasgiri@duck.com
 
 <!---
