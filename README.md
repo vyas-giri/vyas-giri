@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vyas-giri
-- 👀 I like to about learning about computer and technology.
+- 👀 I like to learn about computer and technology.
 - 🌱 I’m proficient in building apps with MERN stack and currently learning Next and Angular.
 - 📫 How to reach me- email: vyasgiri@duck.com
 
