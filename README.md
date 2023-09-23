@@ -7,16 +7,16 @@ I am a full stack web developer having experience in building web apps with MERN
  
  🔭 I like to learn about computers and technology. I am learning Web Development as of now and have come pretty far into it.
  
-  🌱 I’m currently learning NextJS <img style="vertical-align: middle" width="24" height="24" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/> and Angular <img style="vertical-align: middle" width="24" height="24" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>.
+  🌱 I’m currently learning NextJS <img style="vertical-align: middle justify-content: center" width="24" height="24" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/> and Angular <img style="vertical-align: middle justify-content: center" width="24" height="24" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>.
  
- :books: I am planning to learn <img style="vertical-align: middle" src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and Kotlin <img style="vertical-align: middle" width="24" height="24" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/> in the near future.
+ :books: I am planning to learn <img style="vertical-align: middle justify-content: center" src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and Kotlin <img style="vertical-align: middle justify-content: center" width="24" height="24" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/> in the near future.
  
- 👯 I am starting to actively contribute to open source <img style="vertical-align: middle" width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>.
+ 👯 I am starting to actively contribute to open source <img style="vertical-align: middle justify-content: center" width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>.
  
  🤔 I’m actively building projects in the Web2 area and thinking of some new ideas.
 
 
-<img style="vertical-align: middle" width="24" height="24" src="https://img.icons8.com/color/48/discord--v2.png" alt="discord--v2"/> Connect with me on discord, username: proman6969 :))
+<img style="vertical-align: middle justify-content: center" width="24" height="24" src="https://img.icons8.com/color/48/discord--v2.png" alt="discord--v2"/> Connect with me on discord, username: proman6969 :))
 
 
 ### Tech stacks & Tools I Use
