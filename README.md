@@ -55,7 +55,7 @@ I am a full stack web developer having experience in building web apps with MERN
 
 <br/>
 
-
+<hr/>
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
