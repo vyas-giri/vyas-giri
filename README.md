@@ -13,7 +13,7 @@ I am a full stack web developer having experience in building web apps with MERN
  
  👯 I am starting to actively contribute to open source <img style="vertical-align: middle justify-content: center align-items:center" width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>.
  
- 🤔 I’m actively building projects in the Web2 area and thinking of some new ideas.
+ 🖥 I’m actively building projects in the Web2 area.
 
 
 <img style="vertical-align: middle justify-content: center align-items:center" width="24" height="24" src="https://img.icons8.com/color/48/discord--v2.png" alt="discord--v2"/> Connect with me on discord, username: proman6969 :))
