@@ -7,16 +7,16 @@ I am a full stack web developer having quite some experience in MERN stack.:wink
  
  🔭 I like to learn about computers and technology.
  
- 🌱 I’m currently learning NextJS <img width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/> and Angular <img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>.
+ 🌱 I’m currently learning NextJS <img style="items-center" width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/> and Angular <img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>.
  
  :books: I am planning to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and Kotlin <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/> in the near future.
  
  👯 I am starting to actively contribute to open source <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>.
  
- 🤔 I’m actively building projects in the Web2 area.
+ 🤔 I’m actively building projects in the Web2 area and need more ideas.
  
 
-![Profile views](https://gpvc.arturio.dev/vyas-giri)  <img src="https://img.shields.io/github/followers/vyas-giri?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/[vyas-giri])
 
 
 
