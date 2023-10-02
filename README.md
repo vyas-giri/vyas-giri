@@ -11,7 +11,7 @@ I am a full stack web developer having experience in building web apps with MERN
  
  :books: I am planning to learn <img style="vertical-align: middle justify-content: center align-items:center" src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> in the near future.
  
- 👯 I am starting to actively contribute to open source <img style="vertical-align: middle justify-content: center align-items:center" width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>.
+ 👯 I am starting to actively contribute to open source <img style="vertical-align: middle justify-content: center align-items:center text-align: center" width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>.
  
  🖥 I’m actively building projects in the Web2 area.
 
