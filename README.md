@@ -7,9 +7,9 @@ I am a full stack web developer having experience in building web apps with MERN
  
  🔭 I like to learn about computers and technology. I am learning Web Development as of now and have come pretty far into it.
  
-  🌱 I’m currently learning NextJS <img style="vertical-align: middle justify-content: center align-items:center" width="24" height="24" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/> and Angular <img style="vertical-align: middle justify-content: center align-items:center" width="24" height="24" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>.
+  🌱 I’m currently learning Angular <img style="vertical-align: middle justify-content: center align-items:center" width="24" height="24" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/> and nd Kotlin <img style="vertical-align: middle justify-content: center align-items:center" width="24" height="24" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>.
  
- :books: I am planning to learn <img style="vertical-align: middle justify-content: center align-items:center" src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and Kotlin <img style="vertical-align: middle justify-content: center align-items:center" width="24" height="24" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/> in the near future.
+ :books: I am planning to learn <img style="vertical-align: middle justify-content: center align-items:center" src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> in the near future.
  
  👯 I am starting to actively contribute to open source <img style="vertical-align: middle justify-content: center align-items:center" width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>.
  
@@ -36,6 +36,7 @@ I am a full stack web developer having experience in building web apps with MERN
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+<img style="vertical-align: middle justify-content: center align-items:center" width="24" height="24" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/>
 
 ### Other Languages I know
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
