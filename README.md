@@ -7,7 +7,7 @@ I am a full stack web developer having experience in building web apps with MERN
  
  🔭 I like to learn about computers and technology. I am learning Web Development as of now and have come pretty far into it.
  
-  🌱 I’m currently learning Angular <img style="vertical-align: middle justify-content: center align-items:center" width="24" height="24" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/> and Kotlin <img style="vertical-align: middle justify-content: center align-items:center" width="24" height="24" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>.
+  🌱 I’m currently learning Golang and Docker.
  
  :books: I am planning to learn <img style="vertical-align: middle justify-content: center align-items:center" src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> in the near future.
  
