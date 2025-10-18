@@ -16,8 +16,6 @@ I am a full stack web developer having experience in building web apps with MERN
  🖥 Currently I am working on a project, where I plan to develop an in-memory graph database from scratch with some sort of query language.
 
 
-<img style="vertical-align: middle justify-content: center align-items:center" width="24" height="24" src="https://img.icons8.com/color/48/discord--v2.png" alt="discord--v2"/> Connect with me on discord, username: proman6969 :))
-
 
 ### Tech stacks & Tools I Use
 
