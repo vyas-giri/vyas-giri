@@ -3,9 +3,9 @@
 ---
 ![Header](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif "Header")
 
-I am a full stack web developer having experience in building web apps with MERN stack.:wink:
+I am a full stack web developer having experience in building web apps with MERN stack, Next JS, Firebase and other tools.
  
- 🔭 I like to learn about computers and technology. I am learning Web Development as of now and have come pretty far into it.
+ 🔭 I love to learn about computers and technology. I am learning Web Development as of now and have come pretty far into it.
  
   🌱 I’m currently learning Golang and Docker.
  
@@ -13,7 +13,7 @@ I am a full stack web developer having experience in building web apps with MERN
  
  👯 I am starting to actively contribute to open source <img style="vertical-align: middle justify-content: center align-items:center text-align: center" width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>.
  
- 🖥 I’m actively building projects in the Web2 area.
+ 🖥 Currently I am working on a project, where I plan to develop an in-memory graph database from scratch with some sort of query language.
 
 
 <img style="vertical-align: middle justify-content: center align-items:center" width="24" height="24" src="https://img.icons8.com/color/48/discord--v2.png" alt="discord--v2"/> Connect with me on discord, username: proman6969 :))
