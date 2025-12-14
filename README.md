@@ -1,7 +1,6 @@
 ### Hi there, I am Vyas 👋
 
 ---
-![Header](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif "Header")
 
 I am a full stack web developer having experience in building web apps with MERN stack, Next JS, Firebase and other tools.
  
