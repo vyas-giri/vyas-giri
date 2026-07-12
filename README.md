@@ -2,24 +2,20 @@
 
 ---
 
-I am a full stack web developer having experience in building web apps with MERN stack, Next JS, Firebase and other tools.
+I am a full stack web developer having experience in building web apps with MERN stack, Next JS, Firebase, Redux, Docker and CI/CD.
  
- 🔭 I love to learn about computers and technology. I am learning Web Development as of now and have come pretty far into it.
+I love to learn about computers, technology, systems and backend architecture.
  
-  🌱 I’m currently learning Golang and Docker.
+I’m currently learning k8s, agentic AI, and plan to transition into devops and AI/MLops roles.
  
- :books: I am planning to learn <img style="vertical-align: middle justify-content: center align-items:center" src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> in the near future.
+👯 I am starting to actively contribute to open source <img style="vertical-align: middle justify-content: center align-items:center text-align: center" width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>.
  
- 👯 I am starting to actively contribute to open source <img style="vertical-align: middle justify-content: center align-items:center text-align: center" width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>.
- 
- 🖥 Currently I am working on a project, where I plan to develop an in-memory graph database from scratch with some sort of query language.
 
 
 
 ### Tech stacks & Tools I Use
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
@@ -27,13 +23,15 @@ I am a full stack web developer having experience in building web apps with MERN
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
-<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
+<img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 <img style="vertical-align: middle justify-content: center align-items:center" width="24" height="24" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/>
+<img src="https://img.shields.io/docker">
+<img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
 
 ### Other Languages I know
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
@@ -47,7 +45,6 @@ I am a full stack web developer having experience in building web apps with MERN
 
 
 ### Connect with me  💬 
-[<img align="left" alt="vyasgiri3 | Twitter" width="22px" src="https://img.icons8.com/color/48/twitter--v1.png" />][twitter]
 [<img align="left" alt="vyas-giri | LinkedIn" width="22px" src="https://img.icons8.com/color/48/linkedin.png" />][linkedin]
 [<img align="left" alt="vyas_kun | Instagram" width="22px" src="https://img.icons8.com/color/48/instagram-new--v1.png" />][instagram]
 
@@ -60,7 +57,6 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 **Check the Repositories and don't forget to give a star.** 👇
 
 :star: From [vyas-giri](https://github.com/vyas-giri)
-
-[twitter]: https://twitter.com/vyasgiri3
+[portfolio]: https://www.vyasgiri.tech/
 [instagram]: https://www.instagram.com/vyas_kun/
 [linkedin]: https://www.linkedin.com/in/vyas-giri
