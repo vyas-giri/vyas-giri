@@ -2,7 +2,7 @@
 
 ---
 
-I am a full stack web developer having experience in building web apps with MERN stack, Next JS, Firebase, Redux, Docker and CI/CD.
+I am a full stack web developer proficient in building web apps with MERN stack, Next JS, Firebase, Redux, Docker and CI/CD.
  
 I love to learn about computers, technology, systems and backend architecture.
  
@@ -15,7 +15,6 @@ I’m currently learning k8s, agentic AI, and plan to transition into devops and
 
 ### Tech stacks & Tools I Use
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
@@ -28,8 +27,7 @@ I’m currently learning k8s, agentic AI, and plan to transition into devops and
 <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
-<img style="vertical-align: middle justify-content: center align-items:center" width="24" height="24" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/>
-<img src="https://img.shields.io/docker">
+<img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
 
