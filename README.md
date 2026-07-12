@@ -14,8 +14,7 @@ I’m currently learning k8s, agentic AI, and plan to transition into devops and
 
 
 ### Tech stacks & Tools I Use
-
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
@@ -29,7 +28,8 @@ I’m currently learning k8s, agentic AI, and plan to transition into devops and
 <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
 
 ### Languages I know
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img width="48" height="48" src="https://img.icons8.com/color/48/golang.png" alt="golang"/> <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/> <img src="https://img.shields.io/badge/-C%20&-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img width="48" height="48" src="https://img.icons8.com/color/48/golang.png" alt="golang"/> <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> 
 
 ---
 
@@ -40,17 +40,21 @@ I’m currently learning k8s, agentic AI, and plan to transition into devops and
 
 
 ### Connect with me  💬 
-[<img align="left" alt="vyas-giri | LinkedIn" width="22px" src="https://img.icons8.com/color/48/linkedin.png" />][linkedin]
-[<img align="left" alt="vyas_kun | Instagram" width="22px" src="https://img.icons8.com/color/48/instagram-new--v1.png" />][instagram]
+[<img align="left" alt="vyas-giri | LinkedIn" width="22px" src="https://img.icons8.com/color/48/linkedin.png" />]
+[<img align="left" alt="vyas_kun | Instagram" width="22px" src="https://img.icons8.com/color/48/instagram-new--v1.png" />]
 
 
 <hr/>
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
-**Check the Repositories and don't forget to give a star.** 👇
+**Check the Repositories and give a star if you feel like it.**
+
 
 :star: From [vyas-giri](https://github.com/vyas-giri)
+
 [portfolio]: https://www.vyasgiri.tech/
+
 [instagram]: https://www.instagram.com/vyas_kun/
+
 [linkedin]: https://www.linkedin.com/in/vyas-giri
