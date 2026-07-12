@@ -4,7 +4,7 @@
 
 I am a full stack web developer proficient in building web apps with MERN stack, Next JS, Firebase, Redux, Docker and CI/CD.
  
-I love to learn about computers, technology, systems and backend architecture.
+I love to learn about computers, technology, systems and backend architecture which has led me to build interesting projects like my own version of git and an in-memory graph database.
  
 I’m currently learning k8s, agentic AI, and plan to transition into devops and AI/MLops roles.
  
@@ -40,9 +40,11 @@ I’m currently learning k8s, agentic AI, and plan to transition into devops and
 
 
 ### Connect with me  💬 
-[<img align="left" alt="vyas-giri | LinkedIn" width="22px" src="https://img.icons8.com/color/48/linkedin.png" />]
-[<img align="left" alt="vyas_kun | Instagram" width="22px" src="https://img.icons8.com/color/48/instagram-new--v1.png" />]
+<img align="left" alt="vyas-giri | LinkedIn" width="22px" src="https://img.icons8.com/color/48/linkedin.png" />
+<img align="left" alt="vyas_kun | Instagram" width="22px" src="https://img.icons8.com/color/48/instagram-new--v1.png" />
+<a href="https://vyasgiri.tech/">Portfolio</a>
 
+<br/>
 
 <hr/>
 
@@ -52,9 +54,3 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 
 :star: From [vyas-giri](https://github.com/vyas-giri)
-
-[portfolio]: https://www.vyasgiri.tech/
-
-[instagram]: https://www.instagram.com/vyas_kun/
-
-[linkedin]: https://www.linkedin.com/in/vyas-giri
